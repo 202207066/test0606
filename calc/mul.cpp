@@ -1,4 +1,4 @@
-#include "basic.c"
+#include "basic.h"
 int mul(int __x, int  __y)
 {
 	while (__x>=__y){
